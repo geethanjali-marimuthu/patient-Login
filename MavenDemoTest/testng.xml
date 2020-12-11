@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.patientLoginTestCases.CareTeamMemberTestcase"/>
+      <class name="com.qa.test.Status"/>
+      <class name="com.qa.test.Vaccine"/>
+      <class name="com.patientLoginTestCases.GeneralSettingTestCase1"/>
+      <class name="com.qa.test.Medication"/>
+      <class name="com.qa.test.Search"/>
+      <class name="com.qa.test.AdvancedDirective"/>
+      <class name="com.patientLoginTestCases.AuthorizedUserTestcase"/>
+      <class name="com.qa.test.PatientHistory"/>
+      <class name="com.qa.test.inpatient"/>
+      <class name="com.qa.test.Procedure"/>
+      <class name="com.patientLoginTestCases.patientPersonal_TestCase"/>
+      <class name="com.qa.test.SignUp"/>
+      <class name="com.patientLoginTestCases.PatientContactTestcase"/>
+      <class name="com.PatientMessageTestcase.MessageHelp"/>
+      <class name="com.qa.test.PatientCreation"/>
+      <class name="com.qa.test.Notes"/>
+      <class name="com.qa.test.Alert1"/>
+      <class name="com.qa.test.Problem"/>
+      <class name="com.qa.test.Allergy"/>
+      <class name="com.PatientMessageTestcase.ViewInboxMessage"/>
+      <class name="com.PatientRateusTestcases.RateUsTestcase5"/>
+      <class name="com.qa.test.Goal"/>
+      <class name="com.PatientHomePageTestcases.HomepageTestcase2"/>
+      <class name="com.PatientRateusTestcases.RateUsTestcase1"/>
+      <class name="com.PatientRateusTestcases.RateUsTestcase2"/>
+      <class name="com.PatientRateusTestcases.RateUsTestcase3"/>
+      <class name="com.PatientRateusTestcases.RateUsTestcase4"/>
+      <class name="com.PatientMessageTestcase.ComposeMessageTestcase"/>
+      <class name="com.patientLoginTestCases.AutologoutTestcase"/>
+      <class name="com.qa.test.Symptom"/>
+      <class name="com.qa.test.PatientUpdate"/>
+      <class name="com.qa.test.Logo"/>
+      <class name="com.qa.test.forms"/>
+      <class name="com.qa.test.Settings"/>
+      <class name="com.qa.test.CalenderSmsNotification"/>
+      <class name="com.qa.test.FamilyHealth"/>
+      <class name="com.patientLoginTestCases.AlternatecontactTestcase"/>
+      <class name="com.patientLoginTestCases.BillingTestcase"/>
+      <class name="com.qa.test.Amendment"/>
+      <class name="com.qa.test.ImplantDevice"/>
+      <class name="com.qa.test.HealthRecord"/>
+      <class name="com.PatientHomePageTestcases.HomepageTestcases1"/>
+      <class name="com.qa.test.referral"/>
+      <class name="com.qa.test.TestOrder"/>
+      <class name="com.qa.test.VisitReason"/>
+      <class name="com.qa.test.Cart"/>
+      <class name="com.qa.test.Vital"/>
+      <class name="com.PatientMessageTestcase.SentMessage"/>
+      <class name="com.practiseSelenium.print"/>
+      <class name="com.patientLoginTestCases.DateformatTestcase"/>
+      <class name="com.PatientHomePageTestcases.HomePageTestcase4"/>
+      <class name="com.PatientHomePageTestcases.HomePageTestcase3"/>
+      <class name="com.qa.test.DemoTest"/>
+      <class name="com.patientLoginTestCases.ChangePasswordTestcase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
