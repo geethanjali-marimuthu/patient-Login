@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.settingsTestcase.SettingTestcase13">
+      <class name="com.patietProfileTestcase.PatientProfileTestcase15">
         <methods>
+          <include name="profile"/>
           <include name="login1"/>
-          <include name="set"/>
         </methods>
-      </class> <!-- com.settingsTestcase.SettingTestcase13 -->
+      </class> <!-- com.patietProfileTestcase.PatientProfileTestcase15 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
